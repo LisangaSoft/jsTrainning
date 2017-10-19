@@ -82,7 +82,7 @@ NB : Les commandes sont a saisir sur l'invite de commande git, taper sur ENTER a
 
 # Notifier moi
 
-1. Ecrivez moi sur whatsapp ou gmail (kitamula@gmail.com) pour me signaler que votre travail est fini
+1. Ecrivez moi sur whatsapp ou gmail (kitamuka@gmail.com) pour me signaler que votre travail est fini
 
 Soyez libre de me demander ce que chacun de ces commandes signifie (leurs importances)
    
